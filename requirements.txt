@@ -23,7 +23,7 @@ confuse==1.3.0
 coverage==5.3
 cryptography==2.9.2
 cycler==0.10.0
-cymem @ file:///D:/bld/cymem_1591801268646/work
+#cymem @ file:///D:/bld/cymem_1591801268646/work
 dash==1.15.0
 dash-core-components==1.11.0
 dash-html-components==1.1.0
