@@ -147,7 +147,7 @@ testpath==0.4.4
 #thinc @ file:///D:/bld/thinc_1590400575886/work
 threadpoolctl==2.1.0
 toml==0.10.1
-tornado==6.0.4
+tornado==6.1.0
 #tqdm @ file:///tmp/build/80754af9/tqdm_1593446365756/work
 traitlets==5.1.0
 typing-extensions==3.10.0.2
