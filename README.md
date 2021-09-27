@@ -7,7 +7,7 @@ FlixRecommender recommends Netflix movies and TV shows based on a user's favouri
 ## Table of Contents
 1.	[Project Tools](https://github.com/xavier-lim/clusterFlix#project-tools)
 2.	[Data Source](https://github.com/xavier-lim/clusterFlix#data-source)
-3.	[Future Directions](https://github.com/xavier-lim/clusterFlix#future-directions)
+3.	[Dash Web App](https://github.com/xavier-lim/clusterFlix#dash-web-app)
 4.	[Conclusion](https://github.com/xavier-lim/clusterFlix#conclusion)
 5.	[Author](https://github.com/xavier-lim/clusterFlix#author)
 
@@ -21,8 +21,11 @@ For my project, I will collect a Netflix data set from [Kaggle](https://www.kagg
 
 1.	The data set presents information about movies and TV shows (*6234* in total) such as the title, director, cast, country, rating (ex. PG, PG-13, R, etc.), genre, and plot description. Please note only movies and TV shows available on Netflix as of 2019 were included in the data set.
 
-## Future Directions
-I plan to create a Flask web app that will utlize my model to provide recommendations based on a user inputted movie or TV show.
+## Dash Web App
+I created a Dash web app that utlizes my model to provide film recommendations based on a user's favourite movie or TV show.
+
+![App](https://github.com/xavier-lim/flixRecommender/blob/master/images/App.PNG)
+
 
 ## Conclusion
 In conclusion, tailored recommendations can be made based on information about movies and TV shows. In addition, similar models can be developed to provide valuable recommendations to consumers in other domains. For example, e-commerce companies, like Amazon, can use these types of algorithms to suggest similar products based on product descriptions and information.
